@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restro-booking-project/static/css/main.7006035b.chunk.css",
+    "main.js": "/restro-booking-project/static/js/main.bc685ec1.chunk.js",
+    "main.js.map": "/restro-booking-project/static/js/main.bc685ec1.chunk.js.map",
+    "runtime-main.js": "/restro-booking-project/static/js/runtime-main.7ad6e17d.js",
+    "runtime-main.js.map": "/restro-booking-project/static/js/runtime-main.7ad6e17d.js.map",
+    "static/css/2.e58c31e4.chunk.css": "/restro-booking-project/static/css/2.e58c31e4.chunk.css",
+    "static/js/2.17a4794f.chunk.js": "/restro-booking-project/static/js/2.17a4794f.chunk.js",
+    "static/js/2.17a4794f.chunk.js.map": "/restro-booking-project/static/js/2.17a4794f.chunk.js.map",
+    "static/js/3.2c1b8f3b.chunk.js": "/restro-booking-project/static/js/3.2c1b8f3b.chunk.js",
+    "static/js/3.2c1b8f3b.chunk.js.map": "/restro-booking-project/static/js/3.2c1b8f3b.chunk.js.map",
+    "index.html": "/restro-booking-project/index.html",
+    "static/css/2.e58c31e4.chunk.css.map": "/restro-booking-project/static/css/2.e58c31e4.chunk.css.map",
+    "static/css/main.7006035b.chunk.css.map": "/restro-booking-project/static/css/main.7006035b.chunk.css.map",
+    "static/js/2.17a4794f.chunk.js.LICENSE.txt": "/restro-booking-project/static/js/2.17a4794f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad6e17d.js",
+    "static/css/2.e58c31e4.chunk.css",
+    "static/js/2.17a4794f.chunk.js",
+    "static/css/main.7006035b.chunk.css",
+    "static/js/main.bc685ec1.chunk.js"
+  ]
+}
